@@ -1,0 +1,23 @@
+installed pip using :
+->sudo apt install python-pip
+
+installed virtualenv using :
+->sudo pip3 install virtualenv
+
+made a virtual environment using :
+->virtualenv env
+
+to activate the virtual environment :
+->source env/bin/activate
+
+to deactivate virtaul environment :
+-> deactivate
+
+install packages on virtual environment :
+-> pip3 install <package name>
+
+packages used :
+-> numpy
+
+to get the list of packages intalled in the virtual environment:
+-> pip3 list
